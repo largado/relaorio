@@ -7,8 +7,8 @@ from time import sleep
 
 while 1 ==1:
       print("vou chamar o sleep")
-      sleep(86400)
       os.system("ls")
+      sleep(86400)
       print("vou finalizar o programa")
 
 
